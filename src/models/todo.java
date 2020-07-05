@@ -58,7 +58,7 @@ public class todo {
         this.created_at = created_at;
     }
 
-    public Timestamp gitUpdated_at() {
+    public Timestamp getUpdated_at() {
         return updated_at;
     }
 
